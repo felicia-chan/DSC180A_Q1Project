@@ -1,0 +1,4 @@
+{
+    "dockerhub-id": "feliciachan/gcn-citeseer:latest",
+    "build-script": "python run.py"
+}
